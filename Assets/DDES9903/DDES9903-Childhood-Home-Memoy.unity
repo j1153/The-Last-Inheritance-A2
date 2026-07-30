@@ -16080,7 +16080,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2028063701}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 32.926, y: -117.757, z: -137.728}
 --- !u!108 &1575954553
 Light:
@@ -29833,7 +29833,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1575954552}
   - {fileID: 1193731129}
   - {fileID: 346923964}
   - {fileID: 1009891823}
@@ -33945,6 +33944,7 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 1575954552}
   - {fileID: 2028063701}
   - {fileID: 1318408899}
   - {fileID: 650180785}
