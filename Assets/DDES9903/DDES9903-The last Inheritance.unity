@@ -970,7 +970,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 563862955c5c94c808df381228062224, type: 3}
+  m_Resource: {fileID: 8300000, guid: 7717b71c95f384060a1ab4f37aeb7fe6, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
@@ -2892,15 +2892,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 135e668954aa8434399b52e0a1d510d7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.12
+      value: -3.014
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 135e668954aa8434399b52e0a1d510d7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.276
+      value: 1.223
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 135e668954aa8434399b52e0a1d510d7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.107
+      value: 5.677
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 135e668954aa8434399b52e0a1d510d7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3494,7 +3494,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 5ac897dddf8f74ac1afbe89c88bc4ac3, type: 3}
+  m_Resource: {fileID: 8300000, guid: 59458be3ad2e449e6b6b7978586a01d1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -5808,7 +5808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 13
+  delayTime: 16.2
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -5848,7 +5848,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 2f7e90daa76d645348d5a7155a5fb055, type: 3}
+  m_Resource: {fileID: 8300000, guid: 0c8d14498bc6d4bb183c3876d8dc8994, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -6934,7 +6934,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: dc1d58194a96749f5af4de20935947d4, type: 3}
+  m_Resource: {fileID: 8300000, guid: 1d5a1086f39f441c7b93e0951918a0d5, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -7132,7 +7132,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 3.5
+  delayTime: 5
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -7722,7 +7722,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 0d91b896ccc644405b5d253e0118fd0a, type: 3}
+  m_Resource: {fileID: 8300000, guid: 0fa40233e6beb4bdf8b81966386d4b6a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
@@ -10434,7 +10434,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 99cbeb1901bdb44c28344195467a931f, type: 3}
+  m_Resource: {fileID: 8300000, guid: 8af8604921e0a4c7cb31191ad206ab3d, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -10634,7 +10634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 3
+  delayTime: 3.5
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -11907,7 +11907,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 2fbfd4f5c29f4427a8bbbe3f715c5f85, type: 3}
+  m_Resource: {fileID: 8300000, guid: 40c40ca661995436a8d38d0311a36848, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -12013,9 +12013,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Grandma used to keep the accounts in this notebook. Oh, it says here that
-    the document is in the box in the living room, but she forgot which bedroom she
-    wrote the password down in.
+  m_text: Grandma used to keep the accounts in this notebook. Oh, it writes here
+    that the document is in the box in the living room, but she forgot which bedroom
+    she wrote the password down in.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12151,7 +12151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 10.5
+  delayTime: 13
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -14709,7 +14709,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: cc197866069474c49a4ae2586f8056ac, type: 3}
+  m_Resource: {fileID: 8300000, guid: ad10520806c014dacb48d7d4a8405ee8, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -14953,7 +14953,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 11
+  delayTime: 13
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -17881,7 +17881,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: b00ae6d498fef485789b644362131af8, type: 3}
+  m_Resource: {fileID: 8300000, guid: afc5f5670eb814881915de4440e5ce9c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -17979,7 +17979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 2.5
+  delayTime: 2.3
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -18567,9 +18567,77 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1850515292531080446, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1850515292531080446, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021591350522242850, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021591350522242850, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.229
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021591350522242850, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.17364809
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021591350522242850, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021591350522242850, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9848078
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021591350522242850, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021591350522242850, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 2080594528828611117, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.201
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.409
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.67559016
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7372774
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088763396570053905, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 95
       objectReference: {fileID: 0}
     - target: {fileID: 7627682669933859062, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18582,6 +18650,38 @@ PrefabInstance:
     - target: {fileID: 7820613028039414041, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.076
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.193
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122575636848218166, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 360
       objectReference: {fileID: 0}
     - target: {fileID: 8163138141529047213, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_Name
@@ -18597,7 +18697,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9190095107950864778, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.08
+      value: -3.29
       objectReference: {fileID: 0}
     - target: {fileID: 9190095107950864778, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_LocalPosition.y
@@ -18605,7 +18705,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9190095107950864778, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.46
+      value: 5.91
       objectReference: {fileID: 0}
     - target: {fileID: 9190095107950864778, guid: 8949b4a88fb989e4483115e02dfafc96, type: 3}
       propertyPath: m_LocalRotation.w
@@ -20654,7 +20754,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: f55779ae54b8f4aa9bf27822deb1aacc, type: 3}
+  m_Resource: {fileID: 8300000, guid: 8de211f44421046a98b2f1fc1fa102a9, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -32836,7 +32936,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 2.25
+  delayTime: 2.1
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -32888,7 +32988,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 640d1c40c621b49528ff9dd9b085e276, type: 3}
+  m_Resource: {fileID: 8300000, guid: c144b7c5f0f86442886875d22f6a6e1f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -33125,7 +33225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b66dfc42da34419abcfafbcb4ffb505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DelayedActionHandler
-  delayTime: 2.5
+  delayTime: 2.2
   autoExecuteOnStart: 1
   onActionExecuted:
     m_PersistentCalls:
@@ -33277,7 +33377,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: f7a6b60ecf1054393924854469c74ec9, type: 3}
+  m_Resource: {fileID: 8300000, guid: 68e016d306eb547fbafab43e3b9fc601, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -35085,14 +35185,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7023492355409034921}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.24184473, y: -0.24184473, z: -0.66446304, w: 0.66446304}
-  m_LocalPosition: {x: -3.74, y: 1.27, z: 6.66}
+  m_LocalRotation: {x: 0.61237246, y: -0.61237246, z: -0.35355335, w: 0.35355335}
+  m_LocalPosition: {x: -3.599, y: 1.287, z: 5.398}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1226710486}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -120, z: -90}
 --- !u!65 &5374217107032786178
 BoxCollider:
   m_ObjectHideFlags: 0
