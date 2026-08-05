@@ -13,7 +13,7 @@ public class DelayedActionHandler : MonoBehaviour
 
     private Coroutine activeTimer;
 
-    void OnEnable()
+    void Start()
     {
         if (autoExecuteOnStart)
         {
